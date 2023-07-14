@@ -1,0 +1,56 @@
+QUIZ 2 - FOR LECTURE 3.
+
+
+ANSWERS (for explanation, see pdf of answers)
+1. Mean 
+2. The probability of observing the data given that the null hypothesis is true.
+3. The spread of values around the mean.
+4. Correlation measures the strength and direction of the linear relationship between variables.
+5. (Data point - Mean) / Standard Deviation.
+6. 0.05
+
+
+
+QUESTIONS
+1.
+What is the measure of central tendency that is most influenced by outliers?
+Mean
+Median
+Mode
+Standard Deviation
+
+2.
+What is the p-value in hypothesis testing?
+The probability of making a Type I error
+The probability of making a Type II error
+The level of significance for the test
+The probability of observing the data given that the null hypothesis is true
+
+3.
+What is the standard deviation?
+The average value in a dataset
+The spread of values around the mean
+The middle value in a dataset
+The most frequently occurring value in a dataset
+
+4.
+What is the difference between correlation and causation?
+Correlation indicates a cause-and-effect relationship between variables.
+Causation indicates a strong association between variables.
+Correlation measures the strength and direction of the linear relationship between variables.
+Causation measures the statistical significance of the relationship between variables
+
+5.
+What is the formula for calculating the z-score of a data point?
+(Data point - Mean) / Standard Deviation
+(Data point - Median) / Interquartile Range
+(Data point - Mode) / Range
+(Data point - Mean) / Range
+
+6.
+What is the p-value threshold commonly used for statistical significance?
+0.05
+0.10
+0.01
+0.001
+
