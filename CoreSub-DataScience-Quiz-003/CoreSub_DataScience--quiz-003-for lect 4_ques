@@ -1,0 +1,166 @@
+QUIZ 3 --- FOR LECTURE 4
+
+ANSWERS (ALL ARE NOT CORRECT)
+1. To analyze the relationship between dependent and independent variables
+2.Linear Regression
+3.Mean Squared Error (MSE)
+4. To minimize the loss function and find the optimal model parameters
+5. Stochastic Gradient Descent (SGD)
+6.To reduce the model's generalization error
+7. Lasso regularization
+8. To map the input data to a higher-dimensional feature space
+9. Prone to overfitting
+10. To combine multiple weak models to create a stronger model
+11. Bagging
+12. Boosting
+13. Bagging
+14. To assess the performance of individual features in making predictions
+15. Stacking
+16. L1 regularization, L2 regularization, and Elastic Net regularization
+17. Adam
+18. Cross-Entropy Loss
+19. Support Vector Machines (SVM)
+20. K-Nearest Neighbors (KNN)
+
+
+QUESTIONS
+  
+1.
+What is the purpose of the General Linear Model (GLM)?
+To analyze the relationship between dependent and independent variables
+To perform feature selection in regression models
+To apply regularization techniques in machine learning algorithms
+To optimize the parameters in SVM models
+
+2.
+Which of the following regression techniques is suitable for predicting continuous numerical values?
+Linear Regression
+Logistic Regression
+Decision Tree Regression
+Support Vector Regression
+
+3.
+Which of the following loss functions is commonly used in linear regression?
+Mean Absolute Error (MAE)
+Mean Squared Error (MSE)
+Cross-Entropy Loss
+Hinge Loss
+
+4.
+What is the purpose of an optimizer in machine learning?
+To compute the gradient of the loss function
+To select the optimal learning rate for the model
+To minimize the loss function and find the optimal model parameters
+To regularize the model and prevent overfitting
+
+5.
+Which optimization algorithm is commonly used in Gradient Descent?
+Stochastic Gradient Descent (SGD)
+Adam
+RMSprop
+Adagrad
+
+6.
+What is the purpose of regularization in machine learning?
+To increase the complexity of the model
+To reduce the model's generalization error
+To decrease the training time
+To improve the model's accuracy on the training data
+
+7.
+Which regularization technique encourages sparsity by adding an L1 penalty to the loss function?
+Lasso regularization
+Ridge regularization
+Elastic Net regularization
+Dropout regularization
+
+8.
+In Support Vector Machines (SVM), what is the purpose of the kernel function?
+To map the input data to a higher-dimensional feature space
+To regularize the model and prevent overfitting
+To compute the margin between support vectors
+To minimize the misclassification rate
+
+9.
+Which of the following is a disadvantage of Decision Trees?
+Prone to overfitting
+Cannot handle categorical variables
+Require extensive computational resources
+Limited to binary classification problems
+
+10.
+What is the purpose of ensemble techniques in machine learning?
+To combine multiple weak models to create a stronger model
+To reduce the model's complexity
+To improve the model's interpretability
+To reduce the training time
+
+11.
+Which ensemble technique combines multiple models through weighted voting?
+Bagging
+Boosting
+Random Forest
+AdaBoost
+
+12.
+Which ensemble technique builds multiple models sequentially, where each model corrects the mistakes of the previous model?
+Bagging
+Boosting
+Random Forest
+Gradient Boosting
+
+13.
+Which ensemble technique creates multiple models using bootstrapped samples and combines their predictions through averaging or voting?
+Bagging
+Boosting
+Random Forest
+Stacking
+
+14.
+What is the purpose of feature importance in ensemble models?
+To measure the accuracy of the model
+To assess the performance of individual features in making predictions
+To determine the optimal number of features to use
+To reduce the computational complexity of the model
+
+15.
+Which ensemble technique combines the predictions of multiple models through a weighted linear combination?
+Bagging
+Boosting
+Random Forest
+Stacking
+
+16.
+Which regularization technique can be used in both linear regression and logistic regression?
+L1 regularization
+L2 regularization
+Ridge regularization
+Elastic Net regularization
+
+17.
+Which optimization algorithm is commonly used in training deep neural networks?
+Stochastic Gradient Descent (SGD)
+Adam
+RMSprop
+Adagrad
+
+18.
+Which of the following loss functions is commonly used in logistic regression?
+Mean Absolute Error (MAE)
+Mean Squared Error (MSE)
+Cross-Entropy Loss
+Hinge Loss
+
+19.
+Which algorithm can be used for both classification and regression tasks?
+Support Vector Machines (SVM)
+Decision Trees
+Random Forests
+Gradient Boosting
+
+20.
+Which of the following is a non-parametric classification algorithm?
+Logistic Regression
+Linear Discriminant Analysis (LDA)
+K-Nearest Neighbors (KNN)
+Naive Bayes
