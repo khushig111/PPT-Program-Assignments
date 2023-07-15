@@ -1,0 +1,145 @@
+Quiz-005 (for lect 005)
+
+QUESTIONS
+1.
+In the Naive Approach, feature independence is assumed. What does this mean?
+Features are unrelated to each other
+Features are dependent on each other
+Features are normally distributed
+Features are linearly related
+
+2.
+Which of the following is NOT an application of KNN?
+Classification
+Regression
+Anomaly detection
+Dimensionality reduction
+
+3.
+Which clustering algorithm is sensitive to the initial choice of cluster centers?
+K-means clustering
+Hierarchical clustering
+DBSCAN
+Mean Shift clustering
+
+4.
+Which algorithm is commonly used for anomaly detection?
+K-means clustering
+K-nearest neighbors (KNN)
+Support Vector Machines (SVM)
+Principal Component Analysis (PCA)
+
+
+5.
+Which technique is used for reducing the dimensionality of a dataset?
+Principal Component Analysis (PCA)
+K-means clustering
+Random Forests
+Support Vector Machines (SVM)
+
+6.
+Which technique is used to select the most important features in a dataset?
+PCA
+K-means clustering
+Feature selection
+Anomaly detection
+
+7.
+What is the purpose of data drift detection?
+To identify anomalies in the dataset
+To prevent data leakage
+To monitor changes in the data distribution over time
+To measure the impact of feature selection
+
+8.
+What is data leakage in machine learning?
+unintentional disclosure of sensitive data
+Unreliable data sources
+Inconsistent labeling of data samples
+Incorporating information from the future into the training process
+
+
+9.
+Which technique is used for preventing data leakage in machine learning?
+Feature selection
+Cross-validation
+Dimensionality reduction
+Anomaly detection
+
+10.
+Which evaluation technique is used to assess the performance of a machine learning model on unseen data?
+Cross-validation
+Feature selection
+Anomaly detection
+Data leakage detection
+
+11.
+Which of the following is an unsupervised learning algorithm used for anomaly detection?
+Decision Tree
+Random Forest
+Isolation Forest
+Gradient Boosting
+
+12.
+Which dimensionality reduction technique aims to preserve the pairwise distances between data points?
+Principal Component Analysis (PCA)
+Linear Discriminant Analysis (LDA)
+t-SNE
+Singular Value Decomposition (SVD)
+
+
+13.
+Which feature selection technique uses statistical tests to evaluate the significance of each feature?
+Recursive Feature Elimination (RFE)
+Mutual Information
+Chi-square test
+Lasso regularization
+
+14.
+What is the purpose of the Data Drift Detection technique?
+To detect changes in the data distribution over time
+To identify outliers in the dataset
+To reduce the dimensionality of the dataset
+To select the most important features in the dataset
+
+15.
+Which technique can be used to prevent Data Leakage in machine learning?
+Proper data cleaning and preprocessing
+Implementing robust feature selection methods
+Applying strict privacy and security measures
+Following strict model deployment and monitoring protocols
+
+16.
+Which evaluation technique is used to estimate the performance of a machine learning model on unseen data?
+Data Leakage Detection
+Feature Selection
+Cross-Validation
+Anomaly Detection
+
+17.
+Which technique is used to detect potential data leakage in machine learning pipelines?
+Data Leakage Detection
+Cross-Validation
+Anomaly Detection
+Feature Selection
+
+18.
+What is the purpose of Cross-Validation in machine learning?
+To prevent overfitting and assess model generalization
+To identify outliers in the dataset
+To reduce the dimensionality of the dataset
+To select the most important features in the dataset
+
+19.
+Which of the following techniques can be used to handle imbalanced datasets?
+Oversampling the minority class
+Undersampling the majority class
+Using appropriate evaluation metrics (e.g., F1-score)
+All of the above
+
+20.
+Which of the following clustering algorithms is density-based and capable of discovering clusters of arbitrary shapes?
+K-means clustering
+Hierarchical clustering
+DBSCAN
+Mean Shift clustering
