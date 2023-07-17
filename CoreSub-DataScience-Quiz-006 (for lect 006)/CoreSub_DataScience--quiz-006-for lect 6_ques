@@ -1,0 +1,144 @@
+QUIZ 6 -- FOR LECT 6
+
+
+1.
+What is the purpose of a data ingestion pipeline in machine learning?
+To preprocess and transform the data
+To collect and prepare the data for analysis
+To deploy the trained model into production
+To evaluate the performance of the model
+
+2.
+Which of the following is NOT a common step in the data ingestion process?
+Data collection
+Data cleaning
+Data preprocessing
+Model training
+
+3.
+What is the purpose of model training in the machine learning pipeline?
+To prepare the data for analysis
+To evaluate the performance of the model
+To build a predictive model using the prepared data
+To deploy the trained model into production
+
+4.
+Which of the following is NOT a common step in model training?
+Data preprocessing
+Feature engineering
+Hyperparameter tuning
+Model evaluation
+
+5.
+What is the purpose of model validation in the machine learning pipeline?
+To preprocess and transform the data
+To evaluate the performance of the model
+To collect and prepare the data for analysis
+To deploy the trained model into production
+
+6.
+Which technique is commonly used for model validation?
+K-fold cross-validation
+Grid search
+One-hot encoding
+Principal Component Analysis (PCA)
+
+7.
+What is the purpose of deployment strategy in the machine learning pipeline?
+To preprocess and transform the data
+To evaluate the performance of the model
+To collect and prepare the data for analysis
+To deploy the trained model into production
+
+
+8.
+Which of the following is NOT a consideration for model deployment?
+Scalability
+Performance
+Data cleaning
+Robustness
+
+9.
+What is the primary goal of the data ingestion pipeline?
+To clean and transform the data
+To collect and store the data
+To deploy the trained model into production
+To evaluate the performance of the model
+
+10.
+Which component of the machine learning pipeline involves transforming raw data into a format suitable for model training?
+Data ingestion pipeline
+Model training
+Model validation
+Deployment strategy
+
+11.
+What is the main purpose of the model training phase?
+To evaluate the performance of the model
+To preprocess and transform the data
+To build a predictive model using the prepared data
+To deploy the trained model into production
+
+12.
+How is model validation different from model training?
+Model validation involves assessing the performance of the trained model, while model training involves building the model.
+Model validation involves preparing the data for analysis, while model training involves evaluating the model's performance.
+Model validation is an iterative process, while model training is a one-time process
+Model validation is performed after model deployment, while model training is performed before deployment
+
+13.
+What is the purpose of cross-validation in model validation?
+To evaluate the model's performance on a held-out test set
+To assess the model's generalization ability and handle overfitting
+To measure the accuracy of the model's predictions
+To determine the optimal hyperparameters for the model
+
+14.
+What are some common evaluation metrics used in model validation?
+Accuracy, precision, recall
+Mean squared error, mean absolute error
+R-squared, adjusted R-squared
+F1 score, ROC-AUC score
+
+15.
+How do you handle overfitting during model validation?
+Regularization techniques like L1 or L2 regularization
+Increasing the model's complexity
+Adding more features to the model
+Ignoring overfitting as it is a common occurrence in machine learning
+
+16.
+What is the purpose of data drift detection in machine learning?
+To evaluate the performance of the model over time
+To identify changes in the underlying data distribution
+To measure the accuracy of the model's predictions
+To determine the optimal hyperparameters for the model
+
+17.
+How can you detect data drift in a machine learning pipeline?
+By comparing the performance metrics of the model on new data with the training data
+By analyzing the statistical properties of the data over time
+By monitoring the input data for any sudden changes or anomalies
+By using automated tools and algorithms specifically designed for data drift detection
+
+18.
+What is the purpose of data leakage detection in machine learning?
+To evaluate the performance of the model over time
+To identify any unintentional information leakage from the training data to the model
+To measure the accuracy of the model's predictions
+To determine the optimal hyperparameters for the model
+
+19.
+How can you detect data leakage in a machine learning pipeline?
+By carefully examining the features used for model training and ensuring they do not contain information from the target variable
+By comparing the performance metrics of the model on new data with the training data
+By monitoring the input data for any sudden changes or anomalies
+By using automated tools and algorithms specifically designed for data leakage detection
+
+20.
+What is the purpose of cross-validation in machine learning?
+To evaluate the performance of the model on a held-out test set
+To assess the model's generalization ability and handle overfitting
+To measure the accuracy of the model's predictions
+To determine the optimal hyperparameters for the model
+
